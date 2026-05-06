@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "General"
+workgroup: "General Area Dispatch"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "General Area Dispatch"
+  type: "Working Group"
+  mail: "gendispatch@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/gendispatch/"
+  github: "sayrer/derivative-works"
+  latest: "https://sayrer.github.io/derivative-works/draft-sayre-gendispatch-derivative.html"
 
 author:
  -
