@@ -47,9 +47,22 @@ author:
     country: United States of America
     email: sayrer@gmail.com
 
+ -
+    ins: B. E. Carpenter
+    name: Brian E. Carpenter
+    org: The University of Auckland
+    abbrev: Univ. of Auckland
+    postal:
+    - School of Computer Science
+    - The University of Auckland
+    - PB 92019
+    - Auckland 1142
+    country: New Zealand
+    email: brian.e.carpenter@gmail.com
+
 normative:
-  RFC2026:
   RFC5378:
+  RFC9945:
 
 informative:
 
@@ -57,34 +70,36 @@ informative:
 
 --- abstract
 
-By reading this document ... you consent to nothing.
+This document clarifies that IETF correspondence must not contain legal limitations on derivative works.
 
 --- middle
 
 # Introduction
 
-This document updates Rights Contributors Provide to the IETF Trust {{RFC5378}}.
-
-# Derivative Works
-
-In {{RFC5378}}, there is a quite expansive definition of "Contribution". There is also a mechanism described that limits the right to produce derivative works. This mechanism applies to Contributions. This update narrows that clause to technical specifications, like Internet-Drafts or other specifications. It no longer applies to correspondence, such as email, appeals, or YouTube videos of IETF meetings. Inserting those clauses makes it difficult for people to respond, and inhibits collaboration. The very point of collaborating about the internet over the internet.
-
-IETF correspondence MUST NOT include restrictions on derivative works. This restriction covers text that is intentionally inserted and also includes automatically inserted terms inserted by corporate email software. Both variations are disruptive.
-
-It is always possible to publish an Internet-Draft with a restrictive derivative works clause.
-
-All other Rights Contributors Provide to the IETF Trust {{RFC5378}} remain in place. Please don't be annoying.
+This document updates Rights Contributors Provide to the IETF Trust {{RFC5378}}
+in order to clarify and limit which contributions may include a restriction on derivative rights.
 
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
 
+# Derivative Works
 
+In {{RFC5378}}, there is a quite expansive definition of "Contribution". There is also a mechanism formally defined in Section 5.3 that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism applies to all Contributions. Experience has showed that using this mechanism except for technical specifications, for example using it for electronic mail, makes it difficult for people to respond, and inhibits collaboration. This impedes the very idea of collaborating about the Internet over the Internet. The IESG has issued a
+[statement](https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-derivative-works-rights/)
+confirming the intent that derivative works limitations should only be applied to technical specifications. 
 
+This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings. 
 
+Such IETF correspondence MUST NOT include restrictions on derivative works. This restriction covers text that is intentionally inserted and also includes automatically inserted terms inserted by corporate email software. Both variations are disruptive.
+
+It is always possible to publish an Internet-Draft with a restrictive derivative works clause.
+
+All other rights Contributors provide to the IETF Trust {{RFC5378}} remain in place.
+ 
 # Security Considerations
 
-This document prevents a Denial-of-Service attack.
+This document has no direct impact on Internet security.
 
 # IANA Considerations
 
