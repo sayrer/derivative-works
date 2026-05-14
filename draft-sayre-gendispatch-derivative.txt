@@ -66,8 +66,9 @@ Table of Contents
    1.  Introduction
    2.  Conventions and Definitions
    3.  Derivative Works
-   4.  IANA Considerations
-   5.  Normative References
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  Normative References
    Authors' Addresses
 
 1.  Introduction
@@ -115,15 +116,17 @@ Table of Contents
    derivative works clause.
 
    All other rights Contributors provide to the IETF Trust [RFC5378]
-   remain in place. # Security Considerations
+   remain in place.
+
+4.  Security Considerations
 
    This document has no direct impact on Internet security.
 
-4.  IANA Considerations
+5.  IANA Considerations
 
    This document has no IANA actions.
 
-5.  Normative References
+6.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
