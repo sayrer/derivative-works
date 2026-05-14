@@ -96,6 +96,7 @@ Such IETF correspondence MUST NOT include restrictions on derivative works. This
 It is always possible to publish an Internet-Draft with a restrictive derivative works clause.
 
 All other rights Contributors provide to the IETF Trust {{RFC5378}} remain in place.
+
 # Security Considerations
 
 This document has no direct impact on Internet security.
