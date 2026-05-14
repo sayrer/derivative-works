@@ -89,7 +89,7 @@ In {{RFC5378}}, there is a quite expansive definition of "Contribution". There i
 [statement](https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-derivative-works-rights/)
 confirming the intent that derivative works limitations should only be applied to technical specifications. 
 
-This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings. 
+This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
 
 Such IETF correspondence MUST NOT include restrictions on derivative works. This restriction covers text that is intentionally inserted and also includes automatically inserted terms inserted by corporate email software. Both variations are disruptive.
 
