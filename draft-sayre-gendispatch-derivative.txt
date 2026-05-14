@@ -3,10 +3,10 @@
 
 
 General Area Dispatch                                           R. Sayre
-Internet-Draft                                                6 May 2026
-Updates: 5378 (if approved)                                             
-Intended status: Best Current Practice                                  
-Expires: 7 November 2026
+Internet-Draft                                                          
+Updates: 5378 (if approved)                              B. E. Carpenter
+Intended status: Best Current Practice                 Univ. of Auckland
+Expires: 15 November 2026                                    14 May 2026
 
 
                             Derivative Works
@@ -14,7 +14,8 @@ Expires: 7 November 2026
 
 Abstract
 
-   By reading this document ... you consent to nothing.
+   This document clarifies that IETF correspondence must not contain
+   legal limitations on derivative works.
 
 About This Document
 
@@ -44,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 7 November 2026.
+   This Internet-Draft will expire on 15 November 2026.
 
 Copyright Notice
 
@@ -63,42 +64,19 @@ Copyright Notice
 Table of Contents
 
    1.  Introduction
-   2.  Derivative Works
-   3.  Conventions and Definitions
-   4.  Security Considerations
-   5.  IANA Considerations
-   6.  Normative References
-   Author's Address
+   2.  Conventions and Definitions
+   3.  Derivative Works
+   4.  IANA Considerations
+   5.  Normative References
+   Authors' Addresses
 
 1.  Introduction
 
    This document updates Rights Contributors Provide to the IETF Trust
-   [RFC5378].
+   [RFC5378] in order to clarify and limit which contributions may
+   include a restriction on derivative rights.
 
-2.  Derivative Works
-
-   In [RFC5378], there is a quite expansive definition of
-   "Contribution".  There is also a mechanism described that limits the
-   right to produce derivative works.  This mechanism applies to
-   Contributions.  This update narrows that clause to technical
-   specifications, like Internet-Drafts or other specifications.  It no
-   longer applies to correspondence, such as email, appeals, or YouTube
-   videos of IETF meetings.  Inserting those clauses makes it difficult
-   for people to respond, and inhibits collaboration.  The very point of
-   collaborating about the internet over the internet.
-
-   IETF correspondence MUST NOT include restrictions on derivative
-   works.  This restriction covers text that is intentionally inserted
-   and also includes automatically inserted terms inserted by corporate
-   email software.  Both variations are disruptive.
-
-   It is always possible to publish an Internet-Draft with a restrictive
-   derivative works clause.
-
-   All other Rights Contributors Provide to the IETF Trust [RFC5378]
-   remain in place.  Please don't be annoying.
-
-3.  Conventions and Definitions
+2.  Conventions and Definitions
 
    The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
    "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
@@ -106,19 +84,46 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-4.  Security Considerations
+3.  Derivative Works
 
-   This document prevents a Denial-of-Service attack.
+   In [RFC5378], there is a quite expansive definition of
+   "Contribution".  There is also a mechanism formally defined in
+   Section 5.3 that allows a Contributor to limit the right to produce
+   derivative works.  As written, this optional mechanism applies to all
+   Contributions.  Experience has showed that using this mechanism
+   except for technical specifications, for example using it for
+   electronic mail, makes it difficult for people to respond, and
+   inhibits collaboration.  This impedes the very idea of collaborating
+   about the Internet over the Internet.  The IESG has issued a
+   statement (https://datatracker.ietf.org/doc/statement-iesg-statement-
+   on-clarifying-derivative-works-rights/) confirming the intent that
+   derivative works limitations should only be applied to technical
+   specifications.
 
-5.  IANA Considerations
+   This document narrows the use of this mechanism to technical
+   specifications, such as Internet-Drafts or other complete
+   specifications.  It no longer applies to correspondence, such as
+   public online IETF fora as defined in [RFC9945], appeals, minutes, or
+   audio or video recordings of IETF meetings.
+
+   Such IETF correspondence MUST NOT include restrictions on derivative
+   works.  This restriction covers text that is intentionally inserted
+   and also includes automatically inserted terms inserted by corporate
+   email software.  Both variations are disruptive.
+
+   It is always possible to publish an Internet-Draft with a restrictive
+   derivative works clause.
+
+   All other rights Contributors provide to the IETF Trust [RFC5378]
+   remain in place. # Security Considerations
+
+   This document has no direct impact on Internet security.
+
+4.  IANA Considerations
 
    This document has no IANA actions.
 
-6.  Normative References
-
-   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
-              3", BCP 9, RFC 2026, DOI 10.17487/RFC2026, October 1996,
-              <https://www.rfc-editor.org/rfc/rfc2026>.
+5.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -134,9 +139,23 @@ Table of Contents
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
-Author's Address
+   [RFC9945]  Eggert, L., Ed. and E. Lear, Ed., "IETF Community
+              Moderation", BCP 245, RFC 9945, DOI 10.17487/RFC9945,
+              February 2026, <https://www.rfc-editor.org/rfc/rfc9945>.
+
+Authors' Addresses
 
    Robert Sayre
    San Francisco, CA
    United States of America
    Email: sayrer@gmail.com
+
+
+   Brian E. Carpenter
+   The University of Auckland
+   School of Computer Science
+   The University of Auckland
+   PB 92019
+   Auckland 1142
+   New Zealand
+   Email: brian.e.carpenter@gmail.com
