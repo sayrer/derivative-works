@@ -87,7 +87,7 @@ in order to clarify and limit which contributions may include a restriction on d
 
 In {{RFC5378}}, there is a quite expansive definition of "Contribution". There is also a mechanism formally defined in Section 5.3 that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism applies to all Contributions. Experience has showed that using this mechanism except for technical specifications, for example using it for electronic mail, makes it difficult for people to respond, and inhibits collaboration. This impedes the very idea of collaborating about the Internet over the Internet. The IESG has issued a
 [statement](https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-derivative-works-rights/)
-confirming the intent that derivative works limitations should only be applied to technical specifications. 
+confirming the intent that derivative works limitations should only be applied to technical specifications.
 
 This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
 
