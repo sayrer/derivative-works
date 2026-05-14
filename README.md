@@ -2,10 +2,10 @@
 
 # Derivative Works
 
-* [Editor's Copy](https://sayrer.github.io/derivative-works/#go.draft-sayre-derivative-works.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-sayre-derivative-works)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-sayre-derivative-works)
-* [Compare Editor's Copy to Individual Draft](https://sayrer.github.io/derivative-works/#go.draft-sayre-derivative-works.diff)
+* [Editor's Copy](https://sayrer.github.io/derivative-works/#go.draft-sayre-gendispatch-derivative.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-sayre-gendispatch-derivative/)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-sayre-gendispatch-derivative)
+* [Compare Editor's Copy to Individual Draft](https://sayrer.github.io/derivative-works/#go.draft-sayre-gendispatch-derivative.diff)
 
 ## Contributing
 
