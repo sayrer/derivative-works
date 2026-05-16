@@ -6,7 +6,7 @@ General Area Dispatch                                           R. Sayre
 Internet-Draft                                                          
 Updates: 5378 (if approved)                              B. E. Carpenter
 Intended status: Best Current Practice                 Univ. of Auckland
-Expires: 15 November 2026                                    14 May 2026
+Expires: 17 November 2026                                    16 May 2026
 
 
                             Derivative Works
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 November 2026.
+   This Internet-Draft will expire on 17 November 2026.
 
 Copyright Notice
 
@@ -68,7 +68,9 @@ Table of Contents
    3.  Derivative Works
    4.  Security Considerations
    5.  IANA Considerations
-   6.  Normative References
+   6.  References
+     6.1.  Normative References
+     6.2.  Informative References
    Authors' Addresses
 
 1.  Introduction
@@ -87,19 +89,16 @@ Table of Contents
 
 3.  Derivative Works
 
-   In [RFC5378], there is a quite expansive definition of
-   "Contribution".  There is also a mechanism formally defined in
-   Section 5.3 that allows a Contributor to limit the right to produce
-   derivative works.  As written, this optional mechanism applies to all
-   Contributions.  Experience has showed that using this mechanism
-   except for technical specifications, for example using it for
-   electronic mail, makes it difficult for people to respond, and
-   inhibits collaboration.  This impedes the very idea of collaborating
-   about the Internet over the Internet.  The IESG has issued a
-   statement (https://datatracker.ietf.org/doc/statement-iesg-statement-
-   on-clarifying-derivative-works-rights/) confirming the intent that
-   derivative works limitations should only be applied to technical
-   specifications.
+   There is a quite expansive definition of "Contribution" in [RFC5378].
+   There is also a mechanism formally defined in Section 5.3 of that RFC
+   that allows a Contributor to limit the right to produce derivative
+   works.  As written, this optional mechanism applies to all
+   Contributions.  Using this mechanism outside of specifications, for
+   example, in electronic mail, makes it difficult for people to respond
+   and inhibits collaboration.  This behavior impedes the very idea of
+   collaborating about the Internet over the Internet.  The IESG has
+   issued a statement [IESG-DERIV] confirming the intent that derivative
+   works limitations should only be applied to technical specifications.
 
    This document narrows the use of this mechanism to technical
    specifications, such as Internet-Drafts or other complete
@@ -126,7 +125,9 @@ Table of Contents
 
    This document has no IANA actions.
 
-6.  Normative References
+6.  References
+
+6.1.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -145,6 +146,14 @@ Table of Contents
    [RFC9945]  Eggert, L., Ed. and E. Lear, Ed., "IETF Community
               Moderation", BCP 245, RFC 9945, DOI 10.17487/RFC9945,
               February 2026, <https://www.rfc-editor.org/rfc/rfc9945>.
+
+6.2.  Informative References
+
+   [IESG-DERIV]
+              IESG, "IESG Statement on Clarifying Derivative Works
+              Rights", October 2025, <https://datatracker.ietf.org/doc/
+              statement-iesg-statement-on-clarifying-derivative-works-
+              rights/>.
 
 Authors' Addresses
 
