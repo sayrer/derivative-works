@@ -1,0 +1,173 @@
+
+
+
+
+General Area Dispatch                                           R. Sayre
+Internet-Draft                                                          
+Updates: 5378 (if approved)                              B. E. Carpenter
+Intended status: Best Current Practice                 Univ. of Auckland
+Expires: 17 November 2026                                    16 May 2026
+
+
+                            Derivative Works
+               draft-sayre-gendispatch-derivative-latest
+
+Abstract
+
+   This document clarifies that IETF correspondence must not contain
+   legal limitations on derivative works.
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-sayre-gendispatch-derivative/.
+
+   Discussion of this document takes place on the WG General Area
+   Dispatch mailing list (mailto:gendispatch@ietf.org), which is
+   archived at https://datatracker.ietf.org/group/gendispatch/
+   documents/.  Subscribe at https://www.ietf.org/mailman/listinfo/
+   gendispatch/.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 17 November 2026.
+
+Copyright Notice
+
+   Copyright (c) 2026 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Conventions and Definitions
+   3.  Derivative Works
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  References
+     6.1.  Normative References
+     6.2.  Informative References
+   Authors' Addresses
+
+1.  Introduction
+
+   This document updates Rights Contributors Provide to the IETF Trust
+   [RFC5378] in order to clarify and limit which contributions may
+   include a restriction on derivative rights.
+
+2.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  Derivative Works
+
+   There is a quite expansive definition of "Contribution" in [RFC5378].
+   There is also a mechanism formally defined in Section 5.3 of that RFC
+   that allows a Contributor to limit the right to produce derivative
+   works.  As written, this optional mechanism applies to all
+   Contributions.  Using this mechanism outside of specifications, for
+   example, in electronic mail, makes it difficult for people to respond
+   and inhibits collaboration.  This behavior impedes the very idea of
+   collaborating about the Internet over the Internet.  The IESG has
+   issued a statement [IESG-DERIV] confirming the intent that derivative
+   works limitations should only be applied to technical specifications.
+
+   This document narrows the use of this mechanism to technical
+   specifications, such as Internet-Drafts or other complete
+   specifications.  It no longer applies to correspondence, such as
+   public online IETF fora as defined in [RFC9945], appeals, minutes, or
+   audio or video recordings of IETF meetings.
+
+   Such IETF correspondence MUST NOT include restrictions on derivative
+   works.  This restriction covers text that is intentionally inserted
+   and also includes automatically inserted terms inserted by corporate
+   email software.  Both variations are disruptive.
+
+   It is always possible to publish an Internet-Draft with a restrictive
+   derivative works clause.
+
+   All other rights Contributors provide to the IETF Trust [RFC5378]
+   remain in place.
+
+4.  Security Considerations
+
+   This document has no direct impact on Internet security.
+
+5.  IANA Considerations
+
+   This document has no IANA actions.
+
+6.  References
+
+6.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights
+              Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
+              DOI 10.17487/RFC5378, November 2008,
+              <https://www.rfc-editor.org/rfc/rfc5378>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+   [RFC9945]  Eggert, L., Ed. and E. Lear, Ed., "IETF Community
+              Moderation", BCP 245, RFC 9945, DOI 10.17487/RFC9945,
+              February 2026, <https://www.rfc-editor.org/rfc/rfc9945>.
+
+6.2.  Informative References
+
+   [IESG-DERIV]
+              IESG, "IESG Statement on Clarifying Derivative Works
+              Rights", October 2025, <https://datatracker.ietf.org/doc/
+              statement-iesg-statement-on-clarifying-derivative-works-
+              rights/>.
+
+Authors' Addresses
+
+   Robert Sayre
+   San Francisco, CA
+   United States of America
+   Email: sayrer@gmail.com
+
+
+   Brian E. Carpenter
+   The University of Auckland
+   School of Computer Science
+   The University of Auckland
+   PB 92019
+   Auckland 1142
+   New Zealand
+   Email: brian.e.carpenter@gmail.com
