@@ -91,13 +91,15 @@ in order to clarify and limit which contributions may include a restriction on d
 
 # Derivative Works
 
-There is a quite expansive definition of "Contribution" in {{RFC5378}}. There is also a mechanism formally defined in Section 5.3 of that RFC that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism applies to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration. This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has issued a statement {{IESG-DERIV}} confirming the intent that derivative works limitations should only be applied to technical specifications.
+There is an expansive definition of "Contribution" in {{RFC5378}}. There is also a mechanism formally defined in Section 5.3 of that RFC that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism applies to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration. This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has stated {{IESG-DERIV}} that derivative works limitations should only be applied to technical specifications.
 
 This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
 
 Such IETF correspondence MUST NOT include restrictions on derivative works. This restriction covers text that is intentionally inserted and also includes automatically inserted terms inserted by corporate email software. Both variations are disruptive.
 
 It is always possible to publish an Internet-Draft with a restrictive derivative works clause.
+
+When introducing a document with such a clause, care must be taken to note the restriction. This consideration applies to email and IETF meeting presentations.
 
 All other rights Contributors provide to the IETF Trust {{RFC5378}} remain in place.
 
