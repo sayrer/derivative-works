@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-14T00:41:42.587052+00:00",
+  "timestamp": "2026-05-17T00:39:41.066261+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -49,6 +49,163 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
-  "pulls": []
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOSWHRY88AAAABCSvDMQ",
+      "title": "Slide decks at meetings",
+      "url": "https://github.com/sayrer/derivative-works/issues/2",
+      "state": "OPEN",
+      "author": "sayrer",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "I think the draft should say that presentations should note that the draft under discussion has IPR restrictions.",
+      "createdAt": "2026-05-14T19:52:35Z",
+      "updatedAt": "2026-05-14T19:57:58Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOSWHRY87bYkkw",
+      "title": "expanded draft",
+      "url": "https://github.com/sayrer/derivative-works/pull/1",
+      "state": "MERGED",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Added boring stuff",
+      "createdAt": "2026-05-14T04:54:13Z",
+      "updatedAt": "2026-05-16T23:59:12Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "7428fbaa54be424bb4a03763da0f7b9d41e16dae",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "bc-1st-cut",
+      "headRefOid": "1cbaff7641ce5e20a536eafe1a4ccdb2d3b9ab87",
+      "closedAt": "2026-05-14T19:10:38Z",
+      "mergedAt": "2026-05-14T19:10:38Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "9b5fe544320e008e73fd2d1a4020f45ecbb07a04"
+      },
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "So, do we allow derivative rights limitation for slide decks shown at meetings?",
+          "createdAt": "2026-05-14T04:57:01Z",
+          "updatedAt": "2026-05-14T04:57:01Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "Thanks for the snark-removal.",
+          "createdAt": "2026-05-14T19:10:33Z",
+          "updatedAt": "2026-05-14T19:10:33Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "> So, do we allow derivative rights limitation for slide decks shown at meetings?\r\n\r\nI think we want to say it's important to note that the specification under discussion has these IPR restrictions.  #2\r\n",
+          "createdAt": "2026-05-14T19:17:52Z",
+          "updatedAt": "2026-05-14T19:52:53Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Since we say \"or other complete specifications\" I think the slide deck case is already covered.",
+          "createdAt": "2026-05-16T21:14:47Z",
+          "updatedAt": "2026-05-16T21:14:47Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "Let's take it to #2. I am not a pain in this way, but other people are, so let's make sure it's covered well.",
+          "createdAt": "2026-05-16T23:59:12Z",
+          "updatedAt": "2026-05-16T23:59:12Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOSWHRY87_i9qC",
+          "commit": {
+            "abbreviatedOid": "c59aae3"
+          },
+          "author": "github-actions",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-05-14T04:54:40Z",
+          "updatedAt": "2026-05-14T04:54:40Z",
+          "comments": [
+            {
+              "originalPosition": 66,
+              "body": "````suggestion\n\n````",
+              "createdAt": "2026-05-14T04:54:40Z",
+              "updatedAt": "2026-05-14T04:54:40Z"
+            },
+            {
+              "originalPosition": 59,
+              "body": "````suggestion\nThis document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.\n````",
+              "createdAt": "2026-05-14T04:54:40Z",
+              "updatedAt": "2026-05-14T04:54:40Z"
+            },
+            {
+              "originalPosition": 57,
+              "body": "````suggestion\nconfirming the intent that derivative works limitations should only be applied to technical specifications.\n````",
+              "createdAt": "2026-05-14T04:54:40Z",
+              "updatedAt": "2026-05-14T04:54:40Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOSWHRY87cQqgE",
+      "title": "Reword first main paragraph.",
+      "url": "https://github.com/sayrer/derivative-works/pull/3",
+      "state": "MERGED",
+      "author": "sayrer",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Discussed over email. I think I found the syntax for the IESG link as well.",
+      "createdAt": "2026-05-16T19:18:00Z",
+      "updatedAt": "2026-05-16T20:41:10Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "3a62018a710ebc95386525cd5e3e0742b2ff33d5",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "minor_rewrite",
+      "headRefOid": "e8cecfe33c9ef768d2d8e5afe470fce0bb21eff3",
+      "closedAt": "2026-05-16T20:41:10Z",
+      "mergedAt": "2026-05-16T20:41:10Z",
+      "mergedBy": "becarpenter",
+      "mergeCommit": {
+        "oid": "37034c8c7d8978c22fa1023a116a4b88adc6f9ae"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOSWHRY88AAAABAIz0dg",
+          "commit": {
+            "abbreviatedOid": "e8cecfe"
+          },
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "WFM",
+          "createdAt": "2026-05-16T20:40:41Z",
+          "updatedAt": "2026-05-16T20:40:41Z",
+          "comments": []
+        }
+      ]
+    }
+  ]
 }
