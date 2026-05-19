@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-17T00:39:41.066261+00:00",
+  "timestamp": "2026-05-19T00:42:23.083371+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -55,16 +55,31 @@
       "id": "I_kwDOSWHRY88AAAABCSvDMQ",
       "title": "Slide decks at meetings",
       "url": "https://github.com/sayrer/derivative-works/issues/2",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sayrer",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "I think the draft should say that presentations should note that the draft under discussion has IPR restrictions.",
       "createdAt": "2026-05-14T19:52:35Z",
-      "updatedAt": "2026-05-14T19:57:58Z",
-      "closedAt": null,
-      "comments": []
+      "updatedAt": "2026-05-17T22:37:54Z",
+      "closedAt": "2026-05-17T22:37:54Z",
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "No objection to adding a line about that \"for avoidance of doubt.\" Feel free to submit with that addition.",
+          "createdAt": "2026-05-17T04:26:14Z",
+          "updatedAt": "2026-05-17T04:26:14Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "#4 closes this.",
+          "createdAt": "2026-05-17T22:37:54Z",
+          "updatedAt": "2026-05-17T22:37:54Z"
+        }
+      ]
     }
   ],
   "pulls": [
@@ -206,6 +221,42 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOSWHRY87cckCL",
+      "title": "Minor changes",
+      "url": "https://github.com/sayrer/derivative-works/pull/4",
+      "state": "MERGED",
+      "author": "sayrer",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Three changes:\r\n\r\n1) \"quite\" was annoying, and it reads better without it anyway\r\n2) \"The IESG has stated\" is a better reflection of the status quo.\r\n3) A bit on meetings and initial emails, as discussed in #2.\r\n\r\nGood to submit after this?",
+      "createdAt": "2026-05-17T21:50:53Z",
+      "updatedAt": "2026-05-17T22:21:39Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "37034c8c7d8978c22fa1023a116a4b88adc6f9ae",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "minor_cleanups",
+      "headRefOid": "af9cbd91a5e3d957b76ecfc2c6039a6735a54e0c",
+      "closedAt": "2026-05-17T22:21:39Z",
+      "mergedAt": "2026-05-17T22:21:39Z",
+      "mergedBy": "becarpenter",
+      "mergeCommit": {
+        "oid": "d6af215996cfe2d5e55e2821d07706fab055add7"
+      },
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "WFM",
+          "createdAt": "2026-05-17T22:21:13Z",
+          "updatedAt": "2026-05-17T22:21:13Z"
+        }
+      ],
+      "reviews": []
     }
   ]
 }
