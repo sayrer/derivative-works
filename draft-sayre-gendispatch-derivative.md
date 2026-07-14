@@ -95,7 +95,7 @@ There is an expansive definition of "Contribution" in {{RFC5378}}. There is also
 
 This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
 
-Such IETF correspondence MUST NOT include restrictions on derivative works. Any such restriction is hereby deemed ineffective and MUST be ignored by all IETF participants. This covers both text inserted intentionally and text inserted automatically by corporate email software.
+Such IETF correspondence MUST NOT include restrictions on derivative works. Any such restriction is ineffective. This covers both text inserted intentionally and text inserted automatically by corporate email software.
 
 It is always possible to publish an Internet-Draft with a restrictive derivative works clause.
 
