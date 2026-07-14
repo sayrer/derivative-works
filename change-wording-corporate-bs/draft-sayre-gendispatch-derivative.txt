@@ -6,7 +6,7 @@ General Area Dispatch                                           R. Sayre
 Internet-Draft                                                          
 Updates: 5378 (if approved)                              B. E. Carpenter
 Intended status: Best Current Practice                 Univ. of Auckland
-Expires: 14 January 2027                                    13 July 2026
+Expires: 15 January 2027                                    14 July 2026
 
 
                             Derivative Works
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 January 2027.
+   This Internet-Draft will expire on 15 January 2027.
 
 Copyright Notice
 
@@ -107,10 +107,9 @@ Table of Contents
    audio or video recordings of IETF meetings.
 
    Such IETF correspondence MUST NOT include restrictions on derivative
-   works.  Any such restriction is hereby deemed ineffective and MUST be
-   ignored by all IETF participants.  This covers both text inserted
-   intentionally and text inserted automatically by corporate email
-   software.
+   works.  Any such restriction is ineffective.  This covers both text
+   inserted intentionally and text inserted automatically by corporate
+   email software.
 
    It is always possible to publish an Internet-Draft with a restrictive
    derivative works clause.
