@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-19T00:42:23.083371+00:00",
+  "timestamp": "2026-07-14T02:03:56.495062+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -257,6 +257,121 @@
         }
       ],
       "reviews": []
+    },
+    {
+      "number": 5,
+      "id": "PR_kwDOSWHRY87xUB3U",
+      "title": "Invalidate corporate verbiage",
+      "url": "https://github.com/sayrer/derivative-works/pull/5",
+      "state": "OPEN",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-13T23:31:50Z",
+      "updatedAt": "2026-07-14T01:25:04Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "6f27dc8a59f8f11f55a746776811c2662255a7d6",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "change-wording-corporate-bs",
+      "headRefOid": "5368bebcb7e609df3f82e5da2ed39f2acf6789c7",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "I'll do it with no objections. Just tell me if it's ready. It's not wrong. (in the sense that a new I-D would post)",
+          "createdAt": "2026-07-13T23:50:03Z",
+          "updatedAt": "2026-07-13T23:53:48Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Cool. We can't post a new I-D this week, anway. I will update my slides slightly.",
+          "createdAt": "2026-07-14T00:06:42Z",
+          "updatedAt": "2026-07-14T00:06:42Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOSWHRY88AAAABF4lMlA",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2026-07-13T23:59:36Z",
+          "updatedAt": "2026-07-13T23:59:36Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOSWHRY88AAAABF4p-5A",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "ekr",
+          "authorAssociation": "NONE",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-14T00:21:46Z",
+          "updatedAt": "2026-07-14T00:21:47Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "What's the deal with this MUST? You can't make me ignore it. \n",
+              "createdAt": "2026-07-14T00:21:47Z",
+              "updatedAt": "2026-07-14T00:21:47Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOSWHRY88AAAABF4rsfg",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-14T00:30:01Z",
+          "updatedAt": "2026-07-14T00:30:01Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "Yeah, I thought somebody would say that. Probably a lower case \"may\" would be more appropriate. However, I think that sentence is the one that most needs legal review so I wanted it to be a bit conspicuous.",
+              "createdAt": "2026-07-14T00:30:01Z",
+              "updatedAt": "2026-07-14T00:30:01Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOSWHRY88AAAABF46ALQ",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-14T01:25:04Z",
+          "updatedAt": "2026-07-14T01:25:04Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```Any such restriction is ineffective. This covers both text inserted intentionally and text inserted automatically by corporate email software```",
+              "createdAt": "2026-07-14T01:25:04Z",
+              "updatedAt": "2026-07-14T01:25:04Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
