@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-14T02:03:56.495062+00:00",
+  "timestamp": "2026-07-16T02:10:46.202756+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -270,13 +270,13 @@
       "labels": [],
       "body": "",
       "createdAt": "2026-07-13T23:31:50Z",
-      "updatedAt": "2026-07-14T01:25:04Z",
+      "updatedAt": "2026-07-14T21:04:21Z",
       "baseRepository": "sayrer/derivative-works",
       "baseRefName": "main",
       "baseRefOid": "6f27dc8a59f8f11f55a746776811c2662255a7d6",
       "headRepository": "sayrer/derivative-works",
       "headRefName": "change-wording-corporate-bs",
-      "headRefOid": "5368bebcb7e609df3f82e5da2ed39f2acf6789c7",
+      "headRefOid": "a017f99963103f8349a95599d3d7cfb608b64b10",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
@@ -368,6 +368,66 @@
               "body": "```Any such restriction is ineffective. This covers both text inserted intentionally and text inserted automatically by corporate email software```",
               "createdAt": "2026-07-14T01:25:04Z",
               "updatedAt": "2026-07-14T01:25:04Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOSWHRY88AAAABF5UiVQ",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-14T03:23:33Z",
+          "updatedAt": "2026-07-14T03:23:33Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "wfm (until we hear from a lawyer)",
+              "createdAt": "2026-07-14T03:23:33Z",
+              "updatedAt": "2026-07-14T03:23:34Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOSWHRY88AAAABF_MTtQ",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-14T17:09:16Z",
+          "updatedAt": "2026-07-14T17:09:16Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "Excellent point made on the list:\r\n\r\nhttps://mailarchive.ietf.org/arch/msg/gendispatch/8tgRETUzunJddsxdnaZP5TgdiTE/\r\n\r\nThere is already such a clause covering confidentiality. Extending that notion to derivative works is the question.",
+              "createdAt": "2026-07-14T17:09:16Z",
+              "updatedAt": "2026-07-14T17:09:16Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOSWHRY88AAAABGA22TA",
+          "commit": {
+            "abbreviatedOid": "5368beb"
+          },
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-14T21:04:20Z",
+          "updatedAt": "2026-07-14T21:04:21Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "True. I put your proposed text in the PR.",
+              "createdAt": "2026-07-14T21:04:20Z",
+              "updatedAt": "2026-07-14T21:04:21Z"
             }
           ]
         }
