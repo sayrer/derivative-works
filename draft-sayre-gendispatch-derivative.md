@@ -1,25 +1,5 @@
 ---
-###
-# Internet-Draft Markdown Template
-#
-# Rename this file from draft-todo-yourname-protocol.md to get started.
-# Draft name format is "draft-<yourname>-<workgroup>-<name>.md".
-#
-# For initial setup, you only need to edit the first block of fields.
-# Only "title" needs to be changed; delete "abbrev" if your title is short.
-# Any other content can be edited, but be careful not to introduce errors.
-# Some fields will be set automatically during setup if they are unchanged.
-#
-# Don't include "-00" or "-latest" in the filename.
-# Labels in the form draft-<yourname>-<workgroup>-<name>-latest are used by
-# the tools to refer to the current version; see "docname" for example.
-#
-# This template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc
-# You can replace the entire file if you prefer a different format.
-# Change the file extension to match the format (.xml for XML, etc...)
-#
-###
-title: "Derivative Works"
+title: "Limiting Derivative Works Restrictions to IETF Documents"
 category: bcp
 
 updates: 5378
@@ -76,7 +56,7 @@ informative:
 
 --- abstract
 
-This document clarifies that IETF correspondence must not contain legal limitations on derivative works.
+This document clarifies that only IETF Documents may contain legal limitations on derivative works.
 
 --- middle
 
@@ -87,21 +67,17 @@ in order to clarify and limit which contributions may include a restriction on d
 
 # Conventions and Definitions
 
-{::boilerplate bcp14-tagged}
+<!-- {::boilerplate bcp14-tagged} -->
+
+This document uses the terminology defined in {{RFC5378}}.
 
 # Derivative Works
 
-There is an expansive definition of "Contribution" in {{RFC5378}}. There is also a mechanism formally defined in Section 5.3 of that RFC that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism applies to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration. This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has stated {{IESG-DERIV}} that derivative works limitations should only be applied to technical specifications.
+There is an expansive definition of "Contribution" in {{RFC5378}}. There is also a mechanism formally defined in Section 5.3 of that RFC that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism could be construed as applying to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration. This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has stated {{IESG-DERIV}} that derivative works limitations should only be applied to IETF Documents as defined in {{RFC5378}}.
 
-This document narrows the use of this mechanism to technical specifications, such as Internet-Drafts or other complete specifications. It no longer applies to correspondence, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
+This document formally restricts the use of this mechanism to IETF Documents, i.e., RFCs or Internet-Drafts that are used in the IETF Standards Process. Derivative works restrictions may not be applied to other Contributions, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
 
-Such IETF correspondence MUST NOT include restrictions on derivative works. This restriction covers text that is intentionally inserted and also includes automatically inserted terms inserted by corporate email software.
-
-It is always possible to publish an Internet-Draft with a restrictive derivative works clause.
-
-When introducing a document with such a clause, care must be taken to note the restriction. This consideration applies to email and IETF meeting presentations.
-
-All other rights Contributors provide to the IETF Trust {{RFC5378}} remain in place.
+All other rights Contributors provide to the IETF Trust/ICMP {{RFC5378}} remain in place.
 
 # Security Considerations
 
