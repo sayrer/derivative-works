@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-16T02:10:46.202756+00:00",
+  "timestamp": "2026-07-23T02:23:02.524913+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -263,21 +263,21 @@
       "id": "PR_kwDOSWHRY87xUB3U",
       "title": "Invalidate corporate verbiage",
       "url": "https://github.com/sayrer/derivative-works/pull/5",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "becarpenter",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2026-07-13T23:31:50Z",
-      "updatedAt": "2026-07-14T21:04:21Z",
+      "updatedAt": "2026-07-22T22:12:08Z",
       "baseRepository": "sayrer/derivative-works",
       "baseRefName": "main",
       "baseRefOid": "6f27dc8a59f8f11f55a746776811c2662255a7d6",
       "headRepository": "sayrer/derivative-works",
       "headRefName": "change-wording-corporate-bs",
       "headRefOid": "a017f99963103f8349a95599d3d7cfb608b64b10",
-      "closedAt": null,
+      "closedAt": "2026-07-22T22:11:34Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
@@ -295,6 +295,27 @@
           "body": "Cool. We can't post a new I-D this week, anway. I will update my slides slightly.",
           "createdAt": "2026-07-14T00:06:42Z",
           "updatedAt": "2026-07-14T00:06:42Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "do you want to take this one? Or keep going based on feedback? (I think you can just click the button, but it's always better if someone else does it)",
+          "createdAt": "2026-07-22T21:43:07Z",
+          "updatedAt": "2026-07-22T21:45:40Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "I'd rather retract it. According to yesterday's discussion, the whole sentence is gone.",
+          "createdAt": "2026-07-22T22:10:54Z",
+          "updatedAt": "2026-07-22T22:10:54Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "OBE following IETF discussion",
+          "createdAt": "2026-07-22T22:12:08Z",
+          "updatedAt": "2026-07-22T22:12:08Z"
         }
       ],
       "reviews": [
@@ -430,6 +451,63 @@
               "updatedAt": "2026-07-14T21:04:21Z"
             }
           ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "PR_kwDOSWHRY871HNsW",
+      "title": "After ietf126 discussion",
+      "url": "https://github.com/sayrer/derivative-works/pull/6",
+      "state": "MERGED",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Major clean-up, removed corporate gunge issue, as per comments in gen-dispatch",
+      "createdAt": "2026-07-22T22:50:43Z",
+      "updatedAt": "2026-07-23T01:27:22Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "6f27dc8a59f8f11f55a746776811c2662255a7d6",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "after-IETF126-discussion",
+      "headRefOid": "ba0c5a21765f79d6f7c49d471a0102d042d9a377",
+      "closedAt": "2026-07-23T01:27:22Z",
+      "mergedAt": "2026-07-23T01:27:22Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "550a8e730b57fb58e0a52edbd70a6b18832a98de"
+      },
+      "comments": [
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "So, the only question is updating the feedback fora and things. We should get the header right and direct feedback to the `ipr-wg` list. (I'm happy to do the paperwork here if you want)",
+          "createdAt": "2026-07-22T23:45:53Z",
+          "updatedAt": "2026-07-22T23:48:47Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Yes, please do that. As for the title, I agree, it's a bit clumsy - if you think of something more elegant, go for it.",
+          "createdAt": "2026-07-22T23:54:01Z",
+          "updatedAt": "2026-07-22T23:54:01Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOSWHRY88AAAABG7NdgA",
+          "commit": {
+            "abbreviatedOid": "ba0c5a2"
+          },
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "All fine, and about what I saw on video. Don't like the title change, but certainly editorial, and you have the pen there.",
+          "createdAt": "2026-07-22T23:42:59Z",
+          "updatedAt": "2026-07-22T23:42:59Z",
+          "comments": []
         }
       ]
     }
