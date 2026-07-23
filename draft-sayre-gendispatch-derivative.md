@@ -10,14 +10,11 @@ date:
 consensus: true
 v: 3
 area: GEN
-workgroup: General Area Dispatch
+workgroup: Network Working Group
 keyword:
  - derivative
 venue:
-  group: WG
-  type: General Area Dispatch
-  mail: gendispatch@ietf.org
-  arch: https://datatracker.ietf.org/group/gendispatch/documents/
+  mail: ipr-wg@ietf.org
 
 author:
  -
