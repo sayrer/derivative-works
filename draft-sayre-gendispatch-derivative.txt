@@ -2,7 +2,7 @@
 
 
 
-General Area Dispatch                                           R. Sayre
+Network Working Group                                           R. Sayre
 Internet-Draft                                                          
 Updates: 5378 (if approved)                              B. E. Carpenter
 Intended status: Best Current Practice                 Univ. of Auckland
@@ -24,11 +24,10 @@ About This Document
    Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-sayre-gendispatch-derivative/.
 
-   Discussion of this document takes place on the WG General Area
-   Dispatch mailing list (mailto:gendispatch@ietf.org), which is
-   archived at https://datatracker.ietf.org/group/gendispatch/
-   documents/.  Subscribe at https://www.ietf.org/mailman/listinfo/
-   gendispatch/.
+   Discussion of this document takes place on the ipr-wg Working Group
+   mailing list (mailto:ipr-wg@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/ipr-wg/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/ipr-wg/.
 
 Status of This Memo
 
