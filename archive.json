@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-23T02:23:02.524913+00:00",
+  "timestamp": "2026-07-26T02:24:38.916530+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -510,6 +510,49 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 7,
+      "id": "PR_kwDOSWHRY871e5Id",
+      "title": "Update feedback and WG.",
+      "url": "https://github.com/sayrer/derivative-works/pull/7",
+      "state": "MERGED",
+      "author": "sayrer",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "I changed the top line to \"Network Working Group\", since that's what 5378 uses, and changed the feedback venue.\r\n\r\nI didn't change the draft name, since I'm not clear what to change it to. We can merge this and examine the Editor's Copy link.",
+      "createdAt": "2026-07-23T17:08:31Z",
+      "updatedAt": "2026-07-23T22:03:04Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "550a8e730b57fb58e0a52edbd70a6b18832a98de",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "update_feedback",
+      "headRefOid": "2b077cb15257f0aa2e4fd872c2ba21b40d553653",
+      "closedAt": "2026-07-23T21:27:39Z",
+      "mergedAt": "2026-07-23T21:27:39Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "ce6471c271a7a98af55188cbec708ec475548b7f"
+      },
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "All good. The title is descriptive so will do for now IMHO; we can ask the community for better suggestions. I think we can release this version. Thanks much.",
+          "createdAt": "2026-07-23T20:25:59Z",
+          "updatedAt": "2026-07-23T20:25:59Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "https://www.ietf.org/archive/id/draft-sayre-gendispatch-derivative-03.html",
+          "createdAt": "2026-07-23T22:03:04Z",
+          "updatedAt": "2026-07-23T22:03:04Z"
+        }
+      ],
+      "reviews": []
     }
   ]
 }
