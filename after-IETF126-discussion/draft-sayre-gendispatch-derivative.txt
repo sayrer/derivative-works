@@ -104,9 +104,9 @@ Table of Contents
    limitations should only be applied to IETF Documents as defined in
    [RFC5378].
 
-   This document clarifies that Section 3.3 of RFC 5378 permits the use
-   of this mechanism only for the text of IETF Documents, i.e., RFCs or
-   Internet-Drafts that are used in the IETF Standards Process.
+   This document clarifies with normative effect that RFC 5378 permits
+   the use of this mechanism only for the text of IETF Documents, i.e.,
+   RFCs or Internet-Drafts that are used in the IETF Standards Process.
    Derivative works restrictions may not be applied to other
    Contributions, such as public online IETF fora as defined in
    [RFC9945], appeals, minutes, or audio or video recordings of IETF
