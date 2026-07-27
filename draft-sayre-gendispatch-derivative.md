@@ -75,7 +75,7 @@ This document uses the terminology defined in {{RFC5378}}.
 
 There is an expansive definition of "Contribution" in {{RFC5378}}. There is also a mechanism formally defined in Section 5.3 of that RFC that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism could be misconstrued as applying to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration.  This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has stated {{IESG-DERIV}} that derivative works limitations should only be applied to IETF Documents as defined in {{RFC5378}}.
 
-This document clarifies that Section 3.3 of RFC 5378 permits the use of this mechanism only for the text of IETF Documents, i.e., RFCs or Internet-Drafts that are used in the IETF Standards Process. Derivative works restrictions may not be applied to other Contributions, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
+This document clarifies with normative effect that RFC 5378 permits the use of this mechanism only for the text of IETF Documents, i.e., RFCs or Internet-Drafts that are used in the IETF Standards Process. Derivative works restrictions may not be applied to other Contributions, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
 
 All other rights Contributors provide to the IETF Trust/ICMP {{RFC5378}} remain in place.
 
