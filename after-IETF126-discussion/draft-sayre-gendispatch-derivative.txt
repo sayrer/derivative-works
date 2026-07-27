@@ -6,10 +6,10 @@ General Area Dispatch                                           R. Sayre
 Internet-Draft                                                          
 Updates: 5378 (if approved)                              B. E. Carpenter
 Intended status: Best Current Practice                 Univ. of Auckland
-Expires: 23 January 2027                                    22 July 2026
+Expires: 28 January 2027                                    27 July 2026
 
 
-        Limiting Derivative Works Restrictions to IETF Documents
+             Clarification of Derivative Works Restrictions
                draft-sayre-gendispatch-derivative-latest
 
 Abstract
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 January 2027.
+   This Internet-Draft will expire on 28 January 2027.
 
 Copyright Notice
 
@@ -71,6 +71,13 @@ Table of Contents
    6.  References
      6.1.  Normative References
      6.2.  Informative References
+   Appendix A.  Change Log [RFC Editor, please remove]
+     A.1.  Draft-00
+     A.2.  Draft-01
+     A.3.  Draft-02
+     A.4.  Draft-03
+     A.5.  Draft-04
+   Acknowledgements
    Authors' Addresses
 
 1.  Introduction
@@ -88,7 +95,7 @@ Table of Contents
    There is an expansive definition of "Contribution" in [RFC5378].
    There is also a mechanism formally defined in Section 5.3 of that RFC
    that allows a Contributor to limit the right to produce derivative
-   works.  As written, this optional mechanism could be construed as
+   works.  As written, this optional mechanism could be misconstrued as
    applying to all Contributions.  Using this mechanism outside of
    specifications, for example, in electronic mail, makes it difficult
    for people to respond and inhibits collaboration.  This behavior
@@ -97,10 +104,11 @@ Table of Contents
    limitations should only be applied to IETF Documents as defined in
    [RFC5378].
 
-   This document formally restricts the use of this mechanism to IETF
-   Documents, i.e., RFCs or Internet-Drafts that are used in the IETF
-   Standards Process.  Derivative works restrictions may not be applied
-   to other Contributions, such as public online IETF fora as defined in
+   This document clarifies that Section 3.3 of RFC 5378 permits the use
+   of this mechanism only for the text of IETF Documents, i.e., RFCs or
+   Internet-Drafts that are used in the IETF Standards Process.
+   Derivative works restrictions may not be applied to other
+   Contributions, such as public online IETF fora as defined in
    [RFC9945], appeals, minutes, or audio or video recordings of IETF
    meetings.
 
@@ -135,6 +143,32 @@ Table of Contents
               Rights", October 2025, <https://datatracker.ietf.org/doc/
               statement-iesg-statement-on-clarifying-derivative-works-
               rights/>.
+
+Appendix A.  Change Log [RFC Editor, please remove]
+
+A.1.  Draft-00
+
+   *  Original version
+
+A.2.  Draft-01
+
+   *  Added author, expanded argument
+
+A.3.  Draft-02
+
+   *  Removed pointless sentence
+
+A.4.  Draft-03
+
+   *  Significant rewording
+
+A.5.  Draft-04
+
+   *  Update after IETF 126 discussion
+
+Acknowledgements
+
+   Helpful comments were made by Roman Danyliw, Paul Wouters, ...
 
 Authors' Addresses
 
