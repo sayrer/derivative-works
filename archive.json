@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-26T02:24:38.916530+00:00",
+  "timestamp": "2026-07-28T02:07:17.805481+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -553,6 +553,63 @@
         }
       ],
       "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "PR_kwDOSWHRY872r_xz",
+      "title": "Update draft-sayre-gendispatch-derivative.md",
+      "url": "https://github.com/sayrer/derivative-works/pull/8",
+      "state": "MERGED",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Paul Wouter's suggestions",
+      "createdAt": "2026-07-27T02:11:09Z",
+      "updatedAt": "2026-07-27T20:06:28Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "ce6471c271a7a98af55188cbec708ec475548b7f",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "after-IETF126-discussion",
+      "headRefOid": "2aa908d2f61d4e811d359d398d156897359800ea",
+      "closedAt": "2026-07-27T15:21:20Z",
+      "mergedAt": "2026-07-27T15:21:20Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "4c5581a17e916c142ae55b4958ba2c256cd11d49"
+      },
+      "comments": [
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "I think DJB is correct here:\r\n\r\nhttps://mailarchive.ietf.org/arch/msg/ipr-wg/AKwQUKZ1dzaLgwaIqLaqPIrWmIE/\r\n\r\nSection 3 is non-normative.  So, this draft changes Section 5.3c. This distinction is why we get one person claiming there's no change, and another person claiming it's really aggressive.  I'm in the middle: it is a change, but the IETF is not required to provide an official email footer. If you really need it, you can write an I-D easily enough.\r\n\r\nThis is why I bothered to write this one in the first place. While it doesn't seem DJB agrees with the change, I do agree with his read here. (I'll click the buttons if you want, but imho there needs to be more clarity on this issue)",
+          "createdAt": "2026-07-27T04:09:02Z",
+          "updatedAt": "2026-07-27T05:04:07Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Let me try one more bit of wordsmithing (but remember that BCP14 terminology is not a necessity).",
+          "createdAt": "2026-07-27T05:10:08Z",
+          "updatedAt": "2026-07-27T05:10:08Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOSWHRY88AAAABHWxuXQ",
+          "commit": {
+            "abbreviatedOid": "2aa908d"
+          },
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2026-07-27T15:21:10Z",
+          "updatedAt": "2026-07-27T15:21:10Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
