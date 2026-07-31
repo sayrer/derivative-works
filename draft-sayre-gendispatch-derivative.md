@@ -115,4 +115,5 @@ This document has no IANA actions.
 Helpful comments were made by
 Roman Danyliw,
 Paul Wouters,
+Jay Daley,
 ...
