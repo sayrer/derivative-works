@@ -6,7 +6,7 @@ Network Working Group                                           R. Sayre
 Internet-Draft                                                          
 Updates: 5378 (if approved)                              B. E. Carpenter
 Intended status: Best Current Practice                 Univ. of Auckland
-Expires: 28 January 2027                                    27 July 2026
+Expires: 1 February 2027                                    31 July 2026
 
 
              Clarification of Derivative Works Restrictions
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 January 2027.
+   This Internet-Draft will expire on 1 February 2027.
 
 Copyright Notice
 
@@ -167,7 +167,8 @@ A.5.  Draft-04
 
 Acknowledgements
 
-   Helpful comments were made by Roman Danyliw, Paul Wouters, ...
+   Helpful comments were made by Roman Danyliw, Paul Wouters, Jay Daley,
+   ...
 
 Authors' Addresses
 
