@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-28T02:07:17.805481+00:00",
+  "timestamp": "2026-08-02T02:23:07.810250+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -610,6 +610,34 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 9,
+      "id": "PR_kwDOSWHRY8742kYd",
+      "title": "Update for publishing",
+      "url": "https://github.com/sayrer/derivative-works/pull/9",
+      "state": "MERGED",
+      "author": "sayrer",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-31T04:32:19Z",
+      "updatedAt": "2026-07-31T04:32:28Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "4c5581a17e916c142ae55b4958ba2c256cd11d49",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "draft-04",
+      "headRefOid": "cf7d0e5d3c9ea4ceb3b89cc290e95076ea812e55",
+      "closedAt": "2026-07-31T04:32:28Z",
+      "mergedAt": "2026-07-31T04:32:28Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "b6bae05d287def5e4cda7ada896c7340a77fe2f3"
+      },
+      "comments": [],
+      "reviews": []
     }
   ]
 }
