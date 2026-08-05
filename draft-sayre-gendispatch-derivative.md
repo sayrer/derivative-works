@@ -70,9 +70,17 @@ This document uses the terminology defined in {{RFC5378}}.
 
 # Derivative Works
 
-There is an expansive definition of "Contribution" in {{RFC5378}}. There is also a mechanism formally defined in Section 5.3 of that RFC that allows a Contributor to limit the right to produce derivative works. As written, this optional mechanism could be misconstrued as applying to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration.  This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has stated {{IESG-DERIV}} that derivative works limitations should only be applied to IETF Documents as defined in {{RFC5378}}.
+Section 1 of {{RFC5378}} defines "Contribution", a "Contributor" and "IETF Documents". Sections 5.3 and 6 of RFC 5378 describe an optional mechanism for a Contributor to limit derivative works rights with a notice in the Contribution.
 
-This document clarifies with normative effect that RFC 5378 permits the use of this mechanism only for the text of IETF Documents, i.e., RFCs or Internet-Drafts that are used in the IETF Standards Process. Derivative works restrictions may not be applied to other Contributions, such as public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
+This optional mechanism has sometimes been misconstrued as applying to all Contributions. Using this mechanism outside of specifications, for example, in electronic mail, makes it difficult for people to respond and inhibits collaboration.  This behavior impedes the very idea of collaborating about the Internet over the Internet. The IESG has previously issued a statement on this topic {{IESG-DERIV}}.
+
+This document clarifies with normative effect that RFC 5378 permits the use of this mechanism only for the text of IETF Documents, i.e., RFCs or Internet-Drafts that are used in the IETF Standards Process.
+
+__Question for legal review:__ Which of the following two alternative sentences would be more effective and less problematic for participants?
+
+__Version 1:__ Derivative works restrictions may not be applied to other Contributions, such as but not limited to public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings.
+
+__Version 2:__ Derivative works restrictions attached to other Contributions, such as but not limited to public online IETF fora as defined in {{RFC9945}}, appeals, minutes, or audio or video recordings of IETF meetings, have no validity and should be ignored by all IETF participants.
 
 All other rights Contributors provide to the IETF Trust/ICMP {{RFC5378}} remain in place.
 
@@ -109,11 +117,25 @@ This document has no IANA actions.
 
 - Update after IETF 126 discussion
 
+## Draft-05
+
+- Sharpened definitions taken from RFC5378
+- Avoided paraphrasing IESG statement
+- Added explicit  "ban vs ignore" choice
+- Added explicit legal query
+
 # Acknowledgements
 {:numbered="false"}
 
 Helpful comments were made by
-Roman Danyliw,
-Paul Wouters,
 Jay Daley,
+Roman Danyliw,
+Stephen Farrell,
+Joel Halpern,
+Christian Huitema,
+John Klensin,
+Eliot Lear,
+John Levine,
+Rich Salz,
+Paul Wouters,
 ...
