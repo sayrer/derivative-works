@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-08-02T02:23:07.810250+00:00",
+  "timestamp": "2026-08-06T02:08:44.882150+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -637,6 +637,56 @@
         "oid": "b6bae05d287def5e4cda7ada896c7340a77fe2f3"
       },
       "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 10,
+      "id": "PR_kwDOSWHRY8765jRn",
+      "title": "Processed recent discussion...",
+      "url": "https://github.com/sayrer/derivative-works/pull/10",
+      "state": "MERGED",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "...and some earlier comments from Roman that I'd overlooked",
+      "createdAt": "2026-08-05T05:20:29Z",
+      "updatedAt": "2026-08-05T21:18:56Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "b6bae05d287def5e4cda7ada896c7340a77fe2f3",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "aug5fixes",
+      "headRefOid": "e0a9934561818a108ca911cc7d28d8ea2f9e65e8",
+      "closedAt": "2026-08-05T16:34:22Z",
+      "mergedAt": "2026-08-05T16:34:22Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "e77fe45b0b31fbc2c524f37b2e957a2a65964802"
+      },
+      "comments": [
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "New release when you want, list discussion is a bit lively.",
+          "createdAt": "2026-08-05T18:55:24Z",
+          "updatedAt": "2026-08-05T18:55:24Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Please release it anyway. I think Eliot is a bit naive to suggest that everybody should back off. DJB hasn't backed off once in the last 30 years (and that's an evidence-based claim).",
+          "createdAt": "2026-08-05T20:43:10Z",
+          "updatedAt": "2026-08-05T20:43:10Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "https://datatracker.ietf.org/doc/draft-sayre-gendispatch-derivative/05/",
+          "createdAt": "2026-08-05T21:18:56Z",
+          "updatedAt": "2026-08-05T21:18:56Z"
+        }
+      ],
       "reviews": []
     }
   ]
