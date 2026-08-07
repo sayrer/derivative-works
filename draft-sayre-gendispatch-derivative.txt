@@ -6,7 +6,7 @@ Network Working Group                                           R. Sayre
 Internet-Draft                                                          
 Updates: 5378 (if approved)                              B. E. Carpenter
 Intended status: Best Current Practice                 Univ. of Auckland
-Expires: 6 February 2027                                   5 August 2026
+Expires: 8 February 2027                                   7 August 2026
 
 
              Clarification of Derivative Works Restrictions
@@ -14,8 +14,8 @@ Expires: 6 February 2027                                   5 August 2026
 
 Abstract
 
-   This document clarifies that only IETF Documents may contain legal
-   limitations on derivative works.
+   This document updates RFC 5378 to clarify that only IETF Documents
+   may contain legal limitations on derivative works.
 
 About This Document
 
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 6 February 2027.
+   This Internet-Draft will expire on 8 February 2027.
 
 Copyright Notice
 
@@ -64,7 +64,7 @@ Table of Contents
 
    1.  Introduction
    2.  Conventions and Definitions
-   3.  Derivative Works
+   3.  Derivative Works Clarification
    4.  Security Considerations
    5.  IANA Considerations
    6.  References
@@ -77,25 +77,19 @@ Table of Contents
      A.4.  Draft-03
      A.5.  Draft-04
      A.6.  Draft-05
+     A.7.  Draft-06
    Acknowledgements
    Authors' Addresses
 
 1.  Introduction
 
-   This document updates Rights Contributors Provide to the IETF Trust
+   This document updates "Rights Contributors Provide to the IETF Trust"
    [RFC5378] in order to clarify and limit which contributions may
    include a restriction on derivative rights.
 
-2.  Conventions and Definitions
-
-   This document uses the terminology defined in [RFC5378].
-
-3.  Derivative Works
-
-   Section 1 of [RFC5378] defines "Contribution", a "Contributor" and
-   "IETF Documents".  Sections 5.3 and 6 of RFC 5378 describe an
-   optional mechanism for a Contributor to limit derivative works rights
-   with a notice in the Contribution.
+   Sections 5.3 and 6 of RFC 5378 describe an optional mechanism for a
+   Contributor to limit derivative works rights with a notice in the
+   Contribution.
 
    This optional mechanism has sometimes been misconstrued as applying
    to all Contributions.  Using this mechanism outside of
@@ -105,27 +99,19 @@ Table of Contents
    Internet.  The IESG has previously issued a statement on this topic
    [IESG-DERIV].
 
-   This document clarifies with normative effect that RFC 5378 permits
-   the use of this mechanism only for the text of IETF Documents, i.e.,
-   RFCs or Internet-Drafts that are used in the IETF Standards Process.
+2.  Conventions and Definitions
 
-   *Question for legal review:* Which of the following two alternative
-   sentences would be more effective and less problematic for
-   participants?
+   This document uses the terminology defined in Section 1 of [RFC5378].
 
-   *Version 1:* Derivative works restrictions may not be applied to
-   other Contributions, such as but not limited to public online IETF
-   fora as defined in [RFC9945], appeals, minutes, or audio or video
-   recordings of IETF meetings.
+3.  Derivative Works Clarification
 
-   *Version 2:* Derivative works restrictions attached to other
-   Contributions, such as but not limited to public online IETF fora as
-   defined in [RFC9945], appeals, minutes, or audio or video recordings
-   of IETF meetings, have no validity and should be ignored by all IETF
-   participants.
+   The No Derivative Works mechanism is limited to IETF Contributions
+   which are Internet-Drafts and RFCs that are used in the IETF
+   Standards Process, and is not applicable to any other IETF
+   Contribution types as defined by RFC 5378.
 
-   All other rights Contributors provide to the IETF Trust/ICMP
-   [RFC5378] remain in place.
+   All other rights Contributors grant to the IETF Trust or IETF IPMC
+   per [RFC5378] remain in place.
 
 4.  Security Considerations
 
@@ -188,11 +174,20 @@ A.6.  Draft-05
 
    *  Added explicit legal query
 
+A.7.  Draft-06
+
+   *  More succinct version
+
+   *  Removed explicit legal query
+
+   *  Editorial fixes
+
 Acknowledgements
 
-   Helpful comments were made by Jay Daley, Roman Danyliw, Stephen
-   Farrell, Joel Halpern, Christian Huitema, John Klensin, Eliot Lear,
-   John Levine, Rich Salz, Paul Wouters, ...
+   Helpful comments were made by Jay Daley, Roman Danyliw, Glenn Deen,
+   Stephen Farrell, Joel Halpern, Christian Huitema, John Klensin, Eliot
+   Lear, John Levine, Rich Salz, Paul Wouters, and other members of the
+   community.
 
 Authors' Addresses
 
