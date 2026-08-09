@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-08-06T02:08:44.882150+00:00",
+  "timestamp": "2026-08-09T01:19:33.100153+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -688,6 +688,56 @@
         }
       ],
       "reviews": []
+    },
+    {
+      "number": 11,
+      "id": "PR_kwDOSWHRY877yu6H",
+      "title": "More succinct text per Glenn Deen",
+      "url": "https://github.com/sayrer/derivative-works/pull/11",
+      "state": "MERGED",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Also some editorial fixes. Maybe wait a bit before posting this version.",
+      "createdAt": "2026-08-06T23:11:49Z",
+      "updatedAt": "2026-08-07T14:40:33Z",
+      "baseRepository": "sayrer/derivative-works",
+      "baseRefName": "main",
+      "baseRefOid": "e77fe45b0b31fbc2c524f37b2e957a2a65964802",
+      "headRepository": "sayrer/derivative-works",
+      "headRefName": "aug5fixes",
+      "headRefOid": "27eee4e2e9b7da091a841b32281f07613671bcbb",
+      "closedAt": "2026-08-07T14:40:12Z",
+      "mergedAt": "2026-08-07T14:40:12Z",
+      "mergedBy": "sayrer",
+      "mergeCommit": {
+        "oid": "4cc74d1d19a9e8e517a220aed9719d2838ecec25"
+      },
+      "comments": [
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "It's in the Editor's copy now, but not posted as an I-D",
+          "createdAt": "2026-08-07T14:40:33Z",
+          "updatedAt": "2026-08-07T14:40:33Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOSWHRY88AAAABIxknBA",
+          "commit": {
+            "abbreviatedOid": "27eee4e"
+          },
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2026-08-07T14:39:41Z",
+          "updatedAt": "2026-08-07T14:39:41Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
