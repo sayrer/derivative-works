@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-08-13T01:38:33.334906+00:00",
+  "timestamp": "2026-08-16T01:02:00.209329+00:00",
   "repo": "sayrer/derivative-works",
   "labels": [
     {
@@ -701,7 +701,7 @@
       "labels": [],
       "body": "Also some editorial fixes. Maybe wait a bit before posting this version.",
       "createdAt": "2026-08-06T23:11:49Z",
-      "updatedAt": "2026-08-12T20:43:01Z",
+      "updatedAt": "2026-08-13T20:47:05Z",
       "baseRepository": "sayrer/derivative-works",
       "baseRefName": "main",
       "baseRefOid": "e77fe45b0b31fbc2c524f37b2e957a2a65964802",
@@ -728,6 +728,27 @@
           "body": "Not having seen any further comments, maybe you can post this now? Are we ready to formally ask Roman whether he's willing to sponsor it?",
           "createdAt": "2026-08-12T20:43:01Z",
           "updatedAt": "2026-08-12T20:43:01Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "Sure, it's fine by me. Another I-D is not harmful.",
+          "createdAt": "2026-08-13T19:08:15Z",
+          "updatedAt": "2026-08-13T19:08:15Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "OWNER",
+          "body": "https://mailarchive.ietf.org/arch/msg/i-d-announce/6VFw1f_YUvO8KdcoVFOe91kqmZs/",
+          "createdAt": "2026-08-13T20:22:07Z",
+          "updatedAt": "2026-08-13T20:22:07Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Thanks",
+          "createdAt": "2026-08-13T20:47:05Z",
+          "updatedAt": "2026-08-13T20:47:05Z"
         }
       ],
       "reviews": [
